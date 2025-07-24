@@ -14,7 +14,7 @@
 
   // === 你的 Navidrome 登入資訊 ===
   const username = 'root';
-  const password = 'c@25632';
+  const password = '';
 
   // === 觸發 React 的更新事件 ===
   function reactInput(inputElement, value) {
